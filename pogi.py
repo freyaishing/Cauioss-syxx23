@@ -225,7 +225,7 @@ def menu():
 					time.sleep(1)
 					menu()
 				clear()
-				print(' ALL METHOD WORKING !! ')
+				print('   M3 MOST RECOMMENDED !! ')
 				linex()
 				print(' \033[1;33m[1] \033[1;37mMethod  (for mix ids)  \033[1;32m (fast) \n\033[1;33m [2] \033[1;37mMethod  (for mix ids) \033[1;32m  (best)  \n\033[1;33m [3]\033[1;37m Method  (with cokies)\033[1;32m   (v.fast) \n\033[1;33m [4]\033[1;37m Method  (for new ids)\033[1;32m   (best) \n \033[1;33m[5] \033[1;37mMethod  (for new ids) \033[1;32m  (slow) \n \033[1;33m[6] \033[1;37mMethod  (for new ids) \n \033[1;33m[7] \033[1;37mMethod  (for new ids) \n \033[1;33m[8] \033[1;37mMethod  (for new ids) ')
 				linex()
