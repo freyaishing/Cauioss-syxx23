@@ -157,10 +157,11 @@ logo=("""\033[1;91m
       \033[1;97m██║     ╚██████╔╝╚██████╔╝██║
       \033[1;91m╚═╝      ╚═════╝  ╚═════╝ ╚═╝\033[1;39mcauios•syx
 \033[1;37m----------------------------------------------
-[×] Author   : CAUIOS POGI
-[×] Facebook : CAUIOS SYX
-[×] Tool     : Paid
-[×] Version  : 30.0
+[×] Author    ::  CAUIOS POGI
+[×] Facebook  ::  CAUIOS SYX
+[×] Github    ::  Cauioss-syxx23 
+[×] Tool      ::  Paid
+[×] Tool name ::  POGI
 \033[1;37m----------------------------------------------""")
 def linex():
 	print('\033[1;37m----------------------------------------------')
