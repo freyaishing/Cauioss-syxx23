@@ -14,7 +14,7 @@ except ModuleNotFoundError:
 	os.system('pip install requests bs4 futures==2 > /dev/null')
 	os.system('python trt.py')
 	
-print('[•] ADD/FOLLOW MY FB')
+print('\033[1;34m[•] ADD/FOLLOW MY FB')
 os.system('xdg-open https://www.facebook.com/100070381185852 ')
 
 try:
